@@ -29,10 +29,6 @@ A research-driven prototype exploring Player-Centric Dynamic Difficulty Adjustme
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=BeHaVeZ&theme=dracula&hide_border=false&border_radius=5&cache_seconds=86400" height="150" alt="streak graph" />
-</div>
-
 ## Tech
 
 <div align="left">
