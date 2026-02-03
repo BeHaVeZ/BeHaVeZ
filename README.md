@@ -19,7 +19,7 @@ A gameplay-focused Unity project where I helped building the core mechanics and 
 **Link:** [Itch page](https://behavez.itch.io/the-three-dolls)
 
 
-### Space Combat Arena — Dynamic Difficulty Adjustment (Unity / C#)
+### Space Combat Arena | Dynamic Difficulty Adjustment (Unity / C#)
 A research-driven prototype exploring Player-Centric Dynamic Difficulty Adjustment (DDA) in a combat arena.
 
 - Difficulty adapts in real time using performance metrics (PCDA-style approach)
@@ -59,7 +59,7 @@ A research-driven prototype exploring Player-Centric Dynamic Difficulty Adjustme
 
 ## Contact
 <p align="left">
-  <a href="mailto:olek.terentyev@gmail.com" target="_blank">
+  <a href="mailto:alexander.terentyev@student.howest.be" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/alexanderterentyev/" target="_blank">
