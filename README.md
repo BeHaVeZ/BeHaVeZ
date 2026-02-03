@@ -27,8 +27,6 @@ A research-driven prototype exploring Player-Centric Dynamic Difficulty Adjustme
 
 **Repo:** [Space Combat Arena](https://github.com/BeHaVeZ/BeHaVeZ-DDA_GW2024-25)
 
----
-
 ## Tech
 
 <div align="left">
