@@ -53,7 +53,7 @@ A research-driven prototype exploring Player-Centric Dynamic Difficulty Adjustme
 
 ## Contact
 <p align="left">
-  <a href="mailto:alexander.terentyev@student.howest.be" target="_blank">
+  <a href="mailto:alex.terentyev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/alexanderterentyev/" target="_blank">
