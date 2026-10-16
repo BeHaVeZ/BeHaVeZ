@@ -1,5 +1,17 @@
 ## Featured Projects
 
+### Pyroclast | Real-time explosions and smoke on the GPU (C++20 / Direct3D 12 / Vulkan)
+A real-time explosion and smoke simulation that runs entirely on the GPU, with its own renderer over two graphics APIs.
+
+<img src="https://github.com/BeHaVeZ/Pyroclast/raw/main/media/clips/barrage-pall.webp" width="480" alt="An artillery barrage's smoke rising into one pall" />
+
+- GPU particle pipeline in HLSL compute: simulation, stream compaction and indirect draws for up to 393,216 particles
+- Lingering smoke, visible blast waves, and a helicopter and a jet whose air pushes the smoke and raises dust
+- One API-independent render layer over Direct3D 12 and Vulkan, guarded by exact image baselines and validation
+- A benchmark harness, interleaved A/B measurements and a recorded optimization log
+
+**Repo:** [Pyroclast](https://github.com/BeHaVeZ/Pyroclast) · **Download:** [v1.0.0 for Windows](https://github.com/BeHaVeZ/Pyroclast/releases/latest)
+
 ### Tron BattleTanks (C++ / SDL2)
 A small game + engine-style architecture project focused on gameplay systems.
 
